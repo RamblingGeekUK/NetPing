@@ -1,0 +1,7 @@
+D:\Users\wtt\Downloads\netping-69709\Source\CSharp\NetPing.AddIns\bin\Debug\NetPing.AddIns.dll
+D:\Users\wtt\Downloads\netping-69709\Source\CSharp\NetPing.AddIns\bin\Debug\NetPing.AddIns.pdb
+D:\Users\wtt\Downloads\netping-69709\Source\CSharp\NetPing.AddIns\bin\Debug\NetPing.Common.dll
+D:\Users\wtt\Downloads\netping-69709\Source\CSharp\NetPing.AddIns\bin\Debug\NetPing.Common.pdb
+D:\Users\wtt\Downloads\netping-69709\Source\CSharp\NetPing.AddIns\obj\Debug\NetPing.AddIns.csprojResolveAssemblyReference.cache
+D:\Users\wtt\Downloads\netping-69709\Source\CSharp\NetPing.AddIns\obj\Debug\NetPing.AddIns.dll
+D:\Users\wtt\Downloads\netping-69709\Source\CSharp\NetPing.AddIns\obj\Debug\NetPing.AddIns.pdb
